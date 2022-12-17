@@ -1,0 +1,2 @@
+1. Open the cmd
+2. then type python --version
